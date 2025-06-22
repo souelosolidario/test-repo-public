@@ -1,3 +1,3 @@
 # teste-repo-publico
 
-Repositório Publico para teste de git pull
+Repositório Publico para teste de git pull para o github
